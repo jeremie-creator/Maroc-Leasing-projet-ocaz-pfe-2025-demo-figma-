@@ -28,11 +28,27 @@ CMS et base de données : Strapi en tant que Headless CMS, base de données MySQ
 
 Marketplace dynamique des produits leasing, slider interactif, panier client, système de filtrage avancé par nom, ville et catégorie, responsive design complet avec Tailwind CSS, génération automatique d’un document Word récapitulatif des informations client prêt pour signature.
 
+
+Aussi, une carte interactive permettant d’afficher les produits (BTP, voitures, appartements, trafic, etc.) avec leurs coordonnées géographiques (latitude et longitude) positionnées sur la carte du Maroc.
+
+
+
 ## Performance et optimisation
 
-Mise en place d’un système de cache avec React Query afin d’éviter les requêtes API redondantes, chargement dynamique des composants pour réduire le temps de chargement et amélioration globale de l’expérience utilisateur.
+Mise en place d’un système de cache avec React Query afin d’éviter les requêtes API redondantes, lazy loading :  chargement dynamique des composants pour réduire le temps de chargement et amélioration globale de l’expérience utilisateur.
 
 ## Remarque
 
 Ce repository constitue une démonstration design destinée à un usage académique et portfolio. Le code source et l’architecture interne restent confidentiels conformément aux engagements professionnels.
+
+voila des vedios come demo aussi :
+
+
+https://github.com/user-attachments/assets/9f2fb13c-37e2-48ed-84fa-c4df81406bd0
+
+https://github.com/user-attachments/assets/4fb34dca-e93d-44b2-a1a3-8564cfe733fa
+
+https://github.com/user-attachments/assets/531833f9-79ff-4507-aeb1-450b235a5d75
+
+
 
